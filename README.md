@@ -15,7 +15,7 @@
 
 ---
 
-## 🏆 Highlights (impact > buzzwords)
+## 🏆 Highlights
 
 - **Credit Scoring Model (FinTech)** — A decisioning engine that turns real-world financial behavior into clear, explainable credit signals so lenders can act quickly and fairly. Built with transparency in mind so every score has a reason behind it.
 - **OskiBot (RAG Chatbot)** — A friendly campus guide that reads sprawling university pages and answers student questions in plain language, always pointing back to sources so you can trust what it says.
